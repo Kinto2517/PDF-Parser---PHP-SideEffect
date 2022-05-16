@@ -1,0 +1,76 @@
+body{
+    margin: -19;
+    padding: 0;
+}
+
+ #div1{
+     width:40%;
+     height:220px;
+     position: absolute;
+     border-radius:25px;
+     left:70%;
+     top:25%;
+ }
+ 
+ #password{
+     width:60%;
+     height:30;
+
+ }
+ 
+ #kullanıcıAdı {
+     width: 60%;
+     height: 30;
+}
+
+ 
+ #img{
+     width:100%;
+     }
+ 
+ 
+ #kbtn{
+     background:aliceblue;
+     color:black;
+     font-size: 16px;
+     line-height: 18px;
+     padding: 5px 0;
+     text-decoration: none;
+     transition: 0.25s;
+     display: block;
+     height: 30;
+     width: 40%;
+     
+     margin: 0 auto;
+     margin-top: 5px;
+     margin-left:10%;
+    
+ }
+ #abtn{
+    background:aliceblue;
+    color:black;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 5px 0;
+    text-decoration: none;
+    transition: 0.25s;
+    display: block;
+    width: 40%;
+    height: 30;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-left:10%;
+   
+}
+ #abtn:hover{
+     background-color:#883aa8;
+     }
+  #kbtn:hover{
+     background-color:#883aa8;
+     }
+     
+ #anagirisbaslik{
+     color:white;
+     font-size:45px;
+   
+ }
