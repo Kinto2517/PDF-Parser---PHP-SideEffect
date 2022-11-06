@@ -37,8 +37,6 @@ Clone this github repo and open with your favourite IDE
 
 ![image](https://user-images.githubusercontent.com/54002766/200150832-74e451ea-4d4f-4fc8-a14e-569a758278e2.png)
 
-![image](https://user-images.githubusercontent.com/54002766/200150860-39f9f194-cc5f-4e81-9ce1-f44861344a72.png)
-
 
 
 ## Contributing
